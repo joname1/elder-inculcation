@@ -1,0 +1,5 @@
+body {background: aliceblue;}
+.jwlogo {display: none !important;}
+.video-item {text-align: center;margin-bottom: 20px;}
+.video-item-title {text-shadow: #000 2px 2px 2px;color: red;font-size: 21px;}
+#v0,#v1,#v2,#v3 {margin-top: 10px;}
