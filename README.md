@@ -6,6 +6,6 @@
 >>>>>>我告诉你们，我是身经百战了，见得多啦！西方的哪一个国家我没去过？
 >>>>>>>你们有一个好，全世界跑到什么地方，你们比其他的西方记者跑得还快。
 
-### 学习地址: [https://joname1.github.io/elder-inculcation](https://joname1.github.io/elder-inculcation)
+### 学习地址: [https://jk.js.org/elder-inculcation](https://jk.js.org/elder-inculcation)
 
 ![](http://7xo8au.com1.z0.glb.clouddn.com/elder.jpg)
