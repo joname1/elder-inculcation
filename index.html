@@ -9,27 +9,40 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <title>谨记长者教诲!</title>
     <link href="css/naive.min.css" rel="stylesheet">
+    <script src="https://cdn.staticfile.org/jquery/3.4.1/jquery.min.js"></script>
 </head>
 
 <body>
-    <div class="video-item">
-        <span class="video-item-title">长者教育香港记者(中文高清版)</span>
-        <div id="v0"></div>
+    <!-- Loading -->
+    <div class="loading">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
     </div>
 
-    <div class="video-item">
-        <span class="video-item-title">长者教育香港记者(英文字幕版)</span>
-        <div id="v1"></div>
-    </div>
+    <!-- Main -->
+    <div class="main">
+        <div class="video-item">
+            <span class="video-item-title v0"></span>
+            <div id="v0"></div>
+        </div>
 
-    <div class="video-item">
-        <span class="video-item-title">长者视察国机二院</span>
-        <div id="v2"></div>
-    </div>
+        <div class="video-item">
+            <span class="video-item-title v1"></span>
+            <div id="v1"></div>
+        </div>
 
-    <div class="video-item">
-        <span class="video-item-title">长者与华莱士谈笑风生</span>
-        <div id="v3"></div>
+        <div class="video-item">
+            <span class="video-item-title v2"></span>
+            <div id="v2"></div>
+        </div>
+
+        <div class="video-item">
+            <span class="video-item-title v3"></span>
+            <div id="v3"></div>
+        </div>
     </div>
     <script src="js/jwplayer.js"></script>
     <script src="js/jwpsrv.js"></script>

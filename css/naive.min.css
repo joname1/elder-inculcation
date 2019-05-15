@@ -3,3 +3,4 @@ body {background: aliceblue;}
 .video-item {text-align: center;margin-bottom: 20px;}
 .video-item-title {text-shadow: #000 2px 2px 2px;color: red;font-size: 21px;}
 #v0,#v1,#v2,#v3 {margin-top: 10px;}
+.spinner{text-align:center}.spinner>div{width:30px;height:30px;background-color:#67cf22;border-radius:100%;display:inline-block;-webkit-animation:bouncedelay 1.4s infinite ease-in-out;animation:bouncedelay 1.4s infinite ease-in-out;-webkit-animation-fill-mode:both;animation-fill-mode:both}.spinner .bounce1{-webkit-animation-delay:-.32s;animation-delay:-.32s}.spinner .bounce2{-webkit-animation-delay:-.16s;animation-delay:-.16s}@-webkit-keyframes bouncedelay{0%,80%,to{-webkit-transform:scale(0.0)}40%{-webkit-transform:scale(1.0)}}@keyframes bouncedelay{0%,80%,to{transform:scale(0.0);-webkit-transform:scale(0.0)}40%{transform:scale(1.0);-webkit-transform:scale(1.0)}}.loading{position: absolute;z-index: 1;left: 0;right: 0;top: 50%;}
